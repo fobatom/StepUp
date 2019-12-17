@@ -470,3 +470,24 @@ margin-top: 32px;
     flex-basis: calc(100% - 126px);
 }
 
+.page-bg {
+    background-image: url(../img/bg2.png);
+    background-size: cover;
+    padding-top: 110px;
+    padding-bottom: 112px;
+    
+}
+
+.page-bg .title {
+    margin-bottom: 0;
+
+}
+
+.page-bg .title h1 {
+    margin-bottom: 40px;
+}
+
+.page-bg .element-bottom {
+    margin-top: 53px;
+}
+
